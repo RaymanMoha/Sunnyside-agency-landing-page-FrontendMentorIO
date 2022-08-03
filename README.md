@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/RaymanMoha/Sunnyside-agency-landing-page-FrontendMentorIO](https://github.com/RaymanMoha/Sunnyside-agency-landing-page-FrontendMentorIO)
-- Live Site URL: [https://dreamy-babbage-b98c6d.netlify.app/](https://dreamy-babbage-b98c6d.netlify.app/)
+- Live Site URL: [https://spectacular-tapioca-ed7e43.netlify.app](https://spectacular-tapioca-ed7e43.netlify.app)
 
 ## My process
 
